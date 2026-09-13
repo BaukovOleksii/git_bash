@@ -7,3 +7,8 @@ float div(int a, int b)
 {
     return float()a / b;
 }
+
+int mult(int a, int b)
+{
+    return a * b;
+}
