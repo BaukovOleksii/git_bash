@@ -4,6 +4,7 @@
         "soft"
     ],
     "db": {
-        "name": "test_db"
+        "name": "test_db",
+        "password": "qweqweqwe123123123"
     }
 }
