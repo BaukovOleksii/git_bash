@@ -6,6 +6,7 @@
     "db": {
         "name": "test_db",
         "password": "qweqweqwe123123123",
-        "root": "root"
+        "root": "root",
+        "timeout": 20
     }
 }
